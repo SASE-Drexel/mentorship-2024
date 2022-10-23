@@ -26,5 +26,5 @@ I already did say that I liked watching anime, reading manga, and playing video 
 I am mainly looking for someone who can give me good professional and personal advice, academic advice would be great as well. I want someone who can encourage me when I should have the confidence to do something and also them to give me very realistic advice when I need to get my stuff together. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Keith_Truongcao.jpg" alt="Keith Truongcao" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Keith_Truongcao - Keith Truongcao.jpg" alt="Keith Truongcao" class="rounded post-img" />
 </div>

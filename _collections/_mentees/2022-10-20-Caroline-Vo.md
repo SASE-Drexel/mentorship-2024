@@ -26,5 +26,5 @@ Gaming, watching streamers, working out, art, food exploring, anime, social acti
 I’m looking for academic and personal guidance. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Caroline_Vo.jpg" alt="Caroline Vo" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Caroline_Vo - Caroline Vo.jpg" alt="Caroline Vo" class="rounded post-img" />
 </div>

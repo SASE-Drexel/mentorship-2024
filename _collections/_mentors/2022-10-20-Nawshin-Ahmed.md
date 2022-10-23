@@ -38,5 +38,5 @@ I want my mentee to know that I will be there for them, whether it's concerning 
 I don't want this to be just a professional relationship, I want it to be a positive friendship as well. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Nawshin_Ahmed.jpg" alt="Nawshin Ahmed" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Nawshin_Ahmed - Nawshin Ahmed.jpg" alt="Nawshin Ahmed" class="rounded post-img" />
 </div>

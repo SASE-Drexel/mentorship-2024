@@ -2,7 +2,7 @@
 layout: post
 title: Sindhu Raghava 
 date: 2022-10-20
-image: assets/images/Sindhu_Raghava - Sindhu Raghava.jpg
+image: assets/images/Screenshot 2022-10-23 124410.jpg
 about: I am a freshman at Drexel majoring in business while on the premed track. I’m from California and I love the beach! I also read and watch a lot of tv as well as swim.
 year: Freshman
 major: Business
@@ -26,5 +26,5 @@ None
 I want someone who can guide me in different areas of business or medicine and help me figure out what I want to do as a career.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Sindhu_Raghava.jpg" alt="Sindhu Raghava" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Screenshot 2022-10-23 124410.jpg" alt="Sindhu Raghava" class="rounded post-img" />
 </div>

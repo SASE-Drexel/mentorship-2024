@@ -23,7 +23,7 @@ I wish to get research and development job somewhere that I can use my strengths
 
 ### Co-ops
 
-Coop 1: CPMI
+Coop 1: CPMI
 Coop 2: Horiba Instruments
 
 ### Interests
@@ -39,5 +39,5 @@ I plan to be the best mentor ever seen on the face of the planet. Plus I'm prett
 I am honestly not entirely sure but I do believe it would be one of mutual learning and bonding, as I have a lot to learn still about philly and the world.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Abbas_Mirza.jpg" alt="Abbas Mirza" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Abbas_Mirza - Abbas Mirza.jpg" alt="Abbas Mirza" class="rounded post-img" />
 </div>

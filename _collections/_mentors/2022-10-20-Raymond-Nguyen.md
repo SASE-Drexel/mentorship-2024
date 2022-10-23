@@ -38,5 +38,5 @@ Give advice, review resume, guide them through interview process
 Chill
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Raymond_Nguyen.jpg" alt="Raymond Nguyen" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Raymond_Nguyen - Raymond Nguyen.jpg" alt="Raymond Nguyen" class="rounded post-img" />
 </div>

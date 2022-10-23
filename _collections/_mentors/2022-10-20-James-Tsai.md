@@ -38,5 +38,5 @@ Most likely help with classes I can help with, potentially give advice on genera
 Friends who complain about the hardships of university life, both undergrad and grad. Also someone you can atleast confide with.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/James_Tsai.jpg" alt="James Tsai " class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/James_Tsai - James Tsai.jpg" alt="James Tsai " class="rounded post-img" />
 </div>

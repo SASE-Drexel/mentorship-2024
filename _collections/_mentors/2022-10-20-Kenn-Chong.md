@@ -38,5 +38,5 @@ Just regular hangouts during SASE events, and perhaps occasional boba runs to ge
 Just as a friend, or more as someone to elevate their views.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Kenn_Chong.jpg" alt="Kenn Chong" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Kenn_Chong - Kenn Chong.jpg" alt="Kenn Chong" class="rounded post-img" />
 </div>

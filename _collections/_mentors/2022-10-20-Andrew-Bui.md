@@ -38,5 +38,5 @@ I plan to provide support as an upperclassman and as a friend to my mentee. If t
 I see myself being a support pillar and friend to my mentee. I can answer questions or help them out when needed. Also, we can just hang out and get to know each other more.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Andrew_Bui.jpg" alt="Andrew Bui" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Andrew_Bui - Andrew Bui.jpg" alt="Andrew Bui" class="rounded post-img" />
 </div>

@@ -26,5 +26,5 @@ as previeously mentioned, i’m into skateboarding and butterfly knives. other i
 i’m looking for a mentor that is more casual. i don’t really struggle with classes, and i’m mainly looking for a mentor to pick up something else that isn’t really academic related. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Christopher_Nhu.jpg" alt="Christopher Nhu" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Christopher_Nhu - Christopher Nhu.jpg" alt="Christopher Nhu" class="rounded post-img" />
 </div>

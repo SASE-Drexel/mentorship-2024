@@ -38,5 +38,5 @@ I can be someone they come to for academic/professional advice or just someone t
 Whatever my mentee is comfortable with, but I hope we can become close friends where we can learn a lot from each other. I'd envision a friendship in which we can casually talk about anything but also focus on academics/career when needed. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Michelle_Le.jpg" alt="Michelle Le" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Michelle_Le - Michelle Le.jpg" alt="Michelle Le" class="rounded post-img" />
 </div>

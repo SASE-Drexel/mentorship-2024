@@ -23,7 +23,7 @@ To get the bread. Or at least be able to afford bread. Tbh my career goals are p
 
 ### Co-ops
 
-Finance Co-op with KKR
+Finance Co-op with KKR
 International Finance Co-op with Chubb
 
 ### Interests
@@ -39,5 +39,5 @@ I plan to be there for my mentee 24/7 for anything that they need. Granted I may
 I like to keep the mentor-mentee relationship very lowkey. I'm usually not one to schedule things with my mentees frequently because I recognize that everyone has things to do. I prefer to keep in close contact via texts every so often and overall let them decide if they would like to hangout, go to events together, etc.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Dylan_Luong.jpg" alt="Dylan Luong" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Dylan_Luong - Dylan Luong.jpg" alt="Dylan Luong" class="rounded post-img" />
 </div>

@@ -15,7 +15,7 @@ I'm an international student from Brazil, but my ethnicity is fully Chinese. My 
 
 ### Career Goals
 
-
+
 My career goal, for now, is to be able to get a job on a company that i admire in Canada (mostly big techs). I’m not quite sure specifically about Canada but I want to live there for a bit before deciding if I want to stay there for good. 
 
 ### Interests
@@ -27,5 +27,5 @@ I enjoy many hobbies but lately the ones that take my time the most are cooking 
 What I look for in a mentor is who could help me professionally and academically wise. I would like to have someone that could assist me while I apply for coops and prepare myself to apply for internships externally. I would also want someone that would help me learn more about computer science and programming outside of the school curriculum. I would like to be able;e to consult what I can do better on a personal project or help me find the solution for a problem.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Charles_Wu.jpg" alt="Charles Wu" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Charles_Wu - Charles Wu.jpg" alt="Charles Wu" class="rounded post-img" />
 </div>

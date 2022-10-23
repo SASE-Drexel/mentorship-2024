@@ -38,5 +38,5 @@ maybe help them start they career
 bff
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Michael_Tran.jpg" alt="Michael Tran" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Michael_Tran - Michael Tran.jpg" alt="Michael Tran" class="rounded post-img" />
 </div>

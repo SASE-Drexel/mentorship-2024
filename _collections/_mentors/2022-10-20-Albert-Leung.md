@@ -38,5 +38,5 @@ I plan to mentor my mentee with the experience I gained from the past 4 years of
 I envision myself acting as a friend - someone you can come to if you want to hang, go out, or need advice/help.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Albert_Leung.jpg" alt="Albert Leung" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Albert_Leung - Albert Leung.jpg" alt="Albert Leung" class="rounded post-img" />
 </div>

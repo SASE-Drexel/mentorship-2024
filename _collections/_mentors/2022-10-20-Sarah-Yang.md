@@ -38,5 +38,5 @@ I plan on mentoring my SASE Mentee by giving career advice, telling them about c
 I envision my relationship with my mentee to be a very positive and encouraging one. We are going to be besties for life. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Sarah_Yang.jpg" alt="Sarah Yang" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Sarah_Yang - Sarah Yang.jpg" alt="Sarah Yang" class="rounded post-img" />
 </div>

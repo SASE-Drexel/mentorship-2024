@@ -38,5 +38,5 @@ I will try to be as resourceful as possible and will try to help my mentee easil
 I feel like our relationship will be very causal and friendly. We can meet on a weekly basis or whatever my mentee sees fit. We can discuss about any concerns or advice they might need and their progress towards their goal. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Harshil_Thakur.jpg" alt="Harshil Thakur" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Harshil_Thakur - Harshil Thakur.jpg" alt="Harshil Thakur" class="rounded post-img" />
 </div>

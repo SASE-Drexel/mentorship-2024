@@ -26,5 +26,5 @@ STEM, Space, Games, Anime, open to learn about other people's interests
 more or less t=he same interests, knows how to make $$$(not a real criteria, only mean it like 10%)
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Phong_Nguyen.jpg" alt="Phong Nguyen" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Phong_Nguyen - Phong Nguyen.jpg" alt="Phong Nguyen" class="rounded post-img" />
 </div>

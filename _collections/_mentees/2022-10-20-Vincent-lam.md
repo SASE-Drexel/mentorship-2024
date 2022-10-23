@@ -26,5 +26,5 @@ I enjoy reading a lot of different manga, play a lot of roguelikes and some fps,
 Possibly a computer engineer or electrical engineer.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Vincent_lam.jpg" alt="Vincent lam" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Vincent_lam - Vincent lam.jpg" alt="Vincent lam" class="rounded post-img" />
 </div>

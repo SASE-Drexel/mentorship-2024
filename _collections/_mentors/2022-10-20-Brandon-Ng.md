@@ -38,5 +38,5 @@ tell them how to survive
 just a little silbing
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Brandon_Ng.jpg" alt="Brandon Ng" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Brandon_Ng - Brandon Ng.jpg" alt="Brandon Ng" class="rounded post-img" />
 </div>

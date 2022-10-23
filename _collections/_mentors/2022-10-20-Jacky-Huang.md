@@ -38,5 +38,5 @@ I plan to provide them advice on all that one needs to survive the adverse condi
 I am looking for a mentee that will be my lifelong friend and one where both of us can learn from the other. As always, we will strive to have a combination of professional, academic, and interpersonal relationships.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Jacky_Huang.jpg" alt="Jacky Huang" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Jacky_Huang - Jacky Huang.jpg" alt="Jacky Huang" class="rounded post-img" />
 </div>

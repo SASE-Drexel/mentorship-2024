@@ -26,5 +26,5 @@ None
 Someone who is willing to put up with the random Drexel questions I will have. I'd prefer someone who has done a co-op in my major, but I am not picky. Someone who is prob more outgoing than me since I am pretty shy. Study buddy maybe?
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Andrew_Wang.jpg" alt="Andrew Wang" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Andrew_Wang - Andrew Wang.jpg" alt="Andrew Wang" class="rounded post-img" />
 </div>

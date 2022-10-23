@@ -38,5 +38,5 @@ I plan on being a helping hand for my mentee professionally, while also hanging 
 I envision a relationship that is both professional and personal. I want to be someone who my mentee can come to for help/advice, but also be someone who can be a good friend for them.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Jack_Nguyen.jpg" alt="Jack Nguyen" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Jack_Nguyen - Jack Nguyen.jpg" alt="Jack Nguyen" class="rounded post-img" />
 </div>

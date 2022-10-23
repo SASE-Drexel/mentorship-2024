@@ -26,5 +26,5 @@ I love doing sports and keeping fit. I usually spend my extra time doing racquet
 From my mentor I look to gain/develop professional skills
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Vidhi_Shah.jpg" alt="Vidhi Shah" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Vidhi_Shah - Vidhi Shah.jpg" alt="Vidhi Shah" class="rounded post-img" />
 </div>

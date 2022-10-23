@@ -38,5 +38,5 @@ They can always reach out if they need help with something or if they have a que
 I want to have a buddy buddy relationship where my mentee can always come to me if they are bored or if they need someone to listen to them. God knows I needed someone like that my freshman year.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Christopher_Wi.jpg" alt="Christopher Wi" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Christopher_Wi - Christopher Wi.jpg" alt="Christopher Wi" class="rounded post-img" />
 </div>

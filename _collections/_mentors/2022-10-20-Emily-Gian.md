@@ -35,9 +35,9 @@ I can give a combination of academics, professional, and personal guidance. I ca
 
 ### How I Envision My Relationship With My Mentee(s) 
 
-
+
 I see a good friendship where I can help them in whatever way they needed. Hope to really get to know them and be someone they can go to for academic, professional, and personal advice.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Emily_Gian.jpg" alt="Emily Gian" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Emily_Gian - Emily Gian.jpg" alt="Emily Gian" class="rounded post-img" />
 </div>

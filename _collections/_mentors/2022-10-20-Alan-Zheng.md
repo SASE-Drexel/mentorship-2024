@@ -38,5 +38,5 @@ We could hang out, explore the city, and talk about the Drexel shaft :)
 I think it would be fun to have a laid back relationship. I want to be there if you need help with anything but I don’t want it to be overly professional. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Alan_Zheng.jpg" alt="Alan Zheng" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Alan_Zheng - Alan Zheng.jpg" alt="Alan Zheng" class="rounded post-img" />
 </div>

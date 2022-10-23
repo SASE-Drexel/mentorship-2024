@@ -38,5 +38,5 @@ I would love to teach my mentee with the knowledge that I know as well as making
 I am respect my mentee choice, but I hope that my mentee won't just see me as a teacher who advise them but also a friend who they can rely on as they continue their path in Drexel.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Ben_Nguyen.jpg" alt="Ben Nguyen" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Ben_Nguyen - Ben Nguyen.jpg" alt="Ben Nguyen" class="rounded post-img" />
 </div>

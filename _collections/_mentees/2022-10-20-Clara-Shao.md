@@ -26,5 +26,5 @@ None
 I would appreciate having a mentor and friend who can guide me on academic subjects like computer science, and someone who I can hang out and attend events with.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Clara_Shao.jpg" alt="Clara Shao" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Clara_Shao - Clara Shao.jpg" alt="Clara Shao" class="rounded post-img" />
 </div>

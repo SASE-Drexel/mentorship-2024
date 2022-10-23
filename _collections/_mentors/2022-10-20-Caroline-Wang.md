@@ -38,5 +38,5 @@ In order to mentor my SASE mentee, I plan on meeting with them to chat or do act
 I hope my relationship with my mentee can develop into a nice friendship where we feel comfortable talking to and sharing with each other. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Caroline_Wang.jpg" alt="Caroline Wang" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Caroline_Wang - Caroline Wang.jpg" alt="Caroline Wang" class="rounded post-img" />
 </div>

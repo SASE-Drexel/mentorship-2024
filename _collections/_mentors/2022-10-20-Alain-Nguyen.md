@@ -23,8 +23,8 @@ I don't dream of work because I don't dream of capitalism. I will want to work t
 
 ### Co-ops
 
-PECO- Electronic Operations Analyst
-Tromner- Machine Shop Schedular
+PECO- Electronic Operations Analyst
+Tromner- Machine Shop Schedular
 Franklin Square Investments- Business Analyst
 
 ### Interests
@@ -40,5 +40,5 @@ I guess i'll be like being supportive and stuff. If you need emotional support t
 I would be someone to talk to any time, this'd be something more social but I can support with professional development if needed 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Alain_Nguyen.jpg" alt="Alain Nguyen" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Alain_Nguyen - Alain Nguyen.jpg" alt="Alain Nguyen" class="rounded post-img" />
 </div>

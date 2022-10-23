@@ -26,5 +26,5 @@ I'm a huge nap enjoyer : ) When I'm not napping I like reading webtoons and a re
 I'd love someone who could help guide me in the right direction for getting to understand the healthcare field but more than that someone who can encourage me to put myself out there more. I wanna make more friends this year : )
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Amanda_Chao.jpg" alt="Amanda Chao" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Amanda_Chao - Amanda Chao.jpg" alt="Amanda Chao" class="rounded post-img" />
 </div>

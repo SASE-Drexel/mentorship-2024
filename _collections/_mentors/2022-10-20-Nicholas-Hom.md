@@ -38,5 +38,5 @@ I plan to give them random advice and answer any questions they might have, and 
 Good friends that hang out sometimes
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Nicholas_Hom.jpg" alt="Nicholas Hom" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2021/assets/images/Nicholas_Hom - Nicholas Hom.jpg" alt="Nicholas Hom" class="rounded post-img" />
 </div>
