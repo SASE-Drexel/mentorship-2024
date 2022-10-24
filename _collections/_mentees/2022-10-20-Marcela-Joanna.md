@@ -2,7 +2,7 @@
 layout: post
 title: Marcela Joanna Siahaan 
 date: 2022-10-20
-image: assets/images/Marcela_Siahaan - Marcela Siahaan.jpg
+image: assets/images/screenshot2.jpg
 about: Hi! My name is Marcela. I am a Philadelphia Native! I went to Central High School (281). I'm Indonesian/Chinese and I'm turning 19 in October. I love listening to music, baking, reading, and skating! I tend to be more on the shy and quiet side at first, but after getting comfortable, I'll be more open. 
 year: Freshman
 major: Software Engineering
@@ -26,5 +26,5 @@ I can speak around 5 languages and I play 3 instruments. Something pretty cool a
 I hope to have someone that I can go to for help academically as well as personally. College has been a hard shift for me from high school, so I'm hoping to be able to open up to my mentor. 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2022/assets/images/Marcela_Siahaan - Marcela Siahaan.jpg" alt="Marcela Joanna Siahaan" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2022/assets/images/screenshot2.jpg" alt="Marcela Joanna Siahaan" class="rounded post-img" />
 </div>
