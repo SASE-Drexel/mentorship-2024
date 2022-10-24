@@ -23,7 +23,7 @@ Computer science has always played a pretty major role in my life and I love to 
 
 ### Co-ops
 
-None
+SIG
 
 ### Interests
 
