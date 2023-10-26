@@ -2,7 +2,7 @@
 layout: post
 title: Tiffany Khuu 
 date: 2023-10-20
-image: assets/images/Tiffany_Khuu - Tiffany Khuu.JPG
+image: assets/images/Tiffany_Khuu - Tiffany Khuu.jpg
 about: I would like to apologize in advance for my 10 year old boy humor but i’ll make up for it in boba or lunch dates :D
 year: Sophomore
 major: Chemistry (but i’m taking cci courses rn)
@@ -38,5 +38,5 @@ I would mentor my potential mentee by being a helpful hand through their first y
 pookie bear snookums
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2023/assets/images/Tiffany_Khuu - Tiffany Khuu.JPG" alt="Tiffany Khuu" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2023/assets/images/Tiffany_Khuu - Tiffany Khuu.jpg" alt="Tiffany Khuu" class="rounded post-img" />
 </div>
