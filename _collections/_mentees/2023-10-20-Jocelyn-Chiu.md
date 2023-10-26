@@ -15,11 +15,11 @@ i like frogs :) I wouldn't say i'm particularly shy or extraverted, but I do pre
 
 ### Career Goals
 
-I play nerdy video games when I have time! NOT Valorant but moreso singleplayer story-driven stuff like Bioshock, Deus Ex, Skyrim, etc. On a different note, I do some digital art, and I also used to play violin a lot!
+I work at a nonprofit called Coded By Kids as a UI/UX design lead, but I do want to grow more in terms of my UI/UX specific skillsets, which includes frontend, design, and a bit of psych. I'm thinking about going for corporate co-ops for stability but I also want to dabble in game design.
 
 ### Interests
 
-I work at a nonprofit called Coded By Kids as a UI/UX design lead, but I do want to grow more in terms of my UI/UX specific skillsets, which includes frontend, design, and a bit of psych. I'm thinking about going for corporate co-ops for stability but I also want to dabble in game design.
+I play nerdy video games when I have time! NOT Valorant but moreso singleplayer story-driven stuff like Bioshock, Deus Ex, Skyrim, etc. On a different note, I do some digital art, and I also used to play violin a lot!
 
 ### Looking For
 

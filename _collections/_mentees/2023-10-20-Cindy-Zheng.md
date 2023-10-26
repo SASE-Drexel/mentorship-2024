@@ -15,11 +15,11 @@ My name is Cindy. I like to play games and draw!
 
 ### Career Goals
 
-Video games 
+Something business related 
 
 ### Interests
 
-Something business related 
+Video games 
 
 ### Looking For
 

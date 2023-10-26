@@ -15,11 +15,11 @@ I am an International Student from Vietnam, currently studying at Drexel. I am a
 
 ### Career Goals
 
-I like thrifting clothes, jewellery, fragrances. I also like to watch movies, tv shows, anime, etc. I also occasionally play video games.
+I want to graduate knowing a lot of skills related to the CS field, preferably software engineering. I also want to know many people who can help me forward my career.
 
 ### Interests
 
-I want to graduate knowing a lot of skills related to the CS field, preferably software engineering. I also want to know many people who can help me forward my career.
+I like thrifting clothes, jewellery, fragrances. I also like to watch movies, tv shows, anime, etc. I also occasionally play video games.
 
 ### Looking For
 

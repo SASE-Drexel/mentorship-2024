@@ -15,11 +15,11 @@ I'm small but powerful, like the energizer bunny! I'd like to think I'm pretty a
 
 ### Career Goals
 
-music, singing, dancing, food(like all food), kpop, kdramas, webtoons, the color red, dad jokes, MCU
+Ultimately, I wanna do something I love. Money is a driving factor, but I'd be okay with a smaller pay if it means I can wake up every morning excited to go to work. But I don't really know what I love yet, so I have no plan for my career path. 
 
 ### Interests
 
-Ultimately, I wanna do something I love. Money is a driving factor, but I'd be okay with a smaller pay if it means I can wake up every morning excited to go to work. But I don't really know what I love yet, so I have no plan for my career path. 
+music, singing, dancing, food(like all food), kpop, kdramas, webtoons, the color red, dad jokes, MCU
 
 ### Looking For
 

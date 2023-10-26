@@ -15,11 +15,11 @@ Hello! My name is Ilysia, I am a freshman at Drexel. I am mainly introverted but
 
 ### Career Goals
 
-In my free time I watch a wide array of dramas or bad reality TV. I also like playing musical instruments, gaming, rock climbing, badminton, volunteering, cooking, trying new foods, and photography. 
+I want to discover what concentration/field  I enjoy the most in computer science. I’d like to work in a lot of different positions in the future and gain experience working on varying projects to find the best fit for myself. 
 
 ### Interests
 
-I want to discover what concentration/field  I enjoy the most in computer science. I’d like to work in a lot of different positions in the future and gain experience working on varying projects to find the best fit for myself. 
+In my free time I watch a wide array of dramas or bad reality TV. I also like playing musical instruments, gaming, rock climbing, badminton, volunteering, cooking, trying new foods, and photography. 
 
 ### Looking For
 

@@ -16,15 +16,15 @@ I am very glad to be part of SASE and aiming for expansion of my both academic a
 
 ### Career Goals
 
-As I said before sports are an irreplaceable part of my life
-I like anime, but not a guru ( fav anime - Death Note)
-I like Computer Science from perspective that a lot of stuff needs to be not just learned but understood, like the process of delving in this area ( but at the same time a little bit scared of major difficulty)
-
-### Interests
-
 To work in a field I am passionate about
 Work for the top company
 Establish myself as a professional in the U.S. market
+
+### Interests
+
+As I said before sports are an irreplaceable part of my life
+I like anime, but not a guru ( fav anime - Death Note)
+I like Computer Science from perspective that a lot of stuff needs to be not just learned but understood, like the process of delving in this area ( but at the same time a little bit scared of major difficulty)
 
 ### Looking For
 

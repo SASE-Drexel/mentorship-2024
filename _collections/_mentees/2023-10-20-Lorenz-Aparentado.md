@@ -15,11 +15,11 @@ I'm generally chill most of the time, I like to have fun and meet eople. Profess
 
 ### Career Goals
 
-Lifting, Running, Videogames, Guitar, Anime, Programming
+I want to become a Software Engineer at a large company, and make my way through the corporate ladder and eventually become rich.
 
 ### Interests
 
-I want to become a Software Engineer at a large company, and make my way through the corporate ladder and eventually become rich.
+Lifting, Running, Videogames, Guitar, Anime, Programming
 
 ### Looking For
 

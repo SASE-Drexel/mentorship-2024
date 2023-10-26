@@ -15,11 +15,11 @@ I’m from the Poconos, PA but I was born in Brooklyn. I’m more on the quiet s
 
 ### Career Goals
 
-I like collecting knickknacks and making them. I also like taking care of fish and aquatic plants. I mostly like listening to k-rnb and k-pop. I like trying out new things.
+I want to create something that will be able to help a lot of people in the world. Or I would like to create something that helps the environment.
 
 ### Interests
 
-I want to create something that will be able to help a lot of people in the world. Or I would like to create something that helps the environment.
+I like collecting knickknacks and making them. I also like taking care of fish and aquatic plants. I mostly like listening to k-rnb and k-pop. I like trying out new things.
 
 ### Looking For
 

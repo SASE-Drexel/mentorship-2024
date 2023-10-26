@@ -15,11 +15,11 @@ helloo! my name’s lola and i am from ne philly (somerton). i enjoy watching mo
 
 ### Career Goals
 
-i like thrifting and expanding my closet. i also like drying flowers so i can save them for longer.
+i am honestly a little lost currently. i want to do project management or something along the lines bcs i like leadership roles.
 
 ### Interests
 
-i am honestly a little lost currently. i want to do project management or something along the lines bcs i like leadership roles.
+i like thrifting and expanding my closet. i also like drying flowers so i can save them for longer.
 
 ### Looking For
 

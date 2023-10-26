@@ -15,11 +15,11 @@ I am a masters in Computer Science student. I did my undergrad in Electronics bu
 
 ### Career Goals
 
-Developing Websites, Solving Problems, Cooking, Road Trips and Travel.
+After I graduate, I aim to work in NYC in a technical cum Managerial position as I pass my wisdom to early career professionals, for about 4 years and then I hope to become a Digital Nomad, essentially traveling around the world, coding, meeting clients and just experience life.
 
 ### Interests
 
-After I graduate, I aim to work in NYC in a technical cum Managerial position as I pass my wisdom to early career professionals, for about 4 years and then I hope to become a Digital Nomad, essentially traveling around the world, coding, meeting clients and just experience life.
+Developing Websites, Solving Problems, Cooking, Road Trips and Travel.
 
 ### Looking For
 

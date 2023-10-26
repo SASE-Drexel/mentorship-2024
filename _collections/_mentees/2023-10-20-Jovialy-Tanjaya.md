@@ -15,11 +15,11 @@ My name is Jovialy Tanjaya. I want to declare a Biology major with a minor in Bi
 
 ### Career Goals
 
-I enjoy biology as well as the environmental aspect of it. I love to travel and learn new languages. In my free time, I like to play the piano and guitar. I find baking very fun enjoy baking especially macarons even though it took me many times to perfect it. 
+I want to graduate with a major in Biology and a minor in Bioinformatics or Data Science. I want to work with biotechnology. If that does not work out, I want to become a Physician Assistant who can work with kids. 
 
 ### Interests
 
-I want to graduate with a major in Biology and a minor in Bioinformatics or Data Science. I want to work with biotechnology. If that does not work out, I want to become a Physician Assistant who can work with kids. 
+I enjoy biology as well as the environmental aspect of it. I love to travel and learn new languages. In my free time, I like to play the piano and guitar. I find baking very fun enjoy baking especially macarons even though it took me many times to perfect it. 
 
 ### Looking For
 

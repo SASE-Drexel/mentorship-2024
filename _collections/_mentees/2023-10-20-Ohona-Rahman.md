@@ -15,11 +15,11 @@ im an outgoing and social person, i adore those who are close with me. i can be 
 
 ### Career Goals
 
-i have a lot of hobbies like baking, drawing, gaming, building keyboards, taking pretty notes. i have two cats :)
+i want to get a good paying cs job and then save up enough to open up my own cat cafe
 
 ### Interests
 
-i want to get a good paying cs job and then save up enough to open up my own cat cafe
+i have a lot of hobbies like baking, drawing, gaming, building keyboards, taking pretty notes. i have two cats :)
 
 ### Looking For
 

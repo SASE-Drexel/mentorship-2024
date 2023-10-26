@@ -3,7 +3,7 @@ layout: post
 title: Madelyn Li 
 date: 2023-10-20
 image: assets/images/Madelyn_Li - Madelyn Li.jpg
-about: very very casual gaming and watching movies while eating snacks
+about: I recently got into cleaning faucets with Scrubbing Bubbles because the name is so cute
 year: Sophomore
 major: Mechanical Engineering
 
@@ -11,15 +11,15 @@ major: Mechanical Engineering
 
 ### About
 
-very very casual gaming and watching movies while eating snacks
+I recently got into cleaning faucets with Scrubbing Bubbles because the name is so cute
 
 ### Why Do I Want To Be a SASE Mentor?
 
-Hopefully something that is not an office job
+to get out of my apartment
 
 ### Career Goals
 
-to get out of my apartment
+Hopefully something that is not an office job
 
 ### Co-ops
 
@@ -27,11 +27,11 @@ Construction Management
 
 ### Interests
 
-I would be available to take them around the city, answer any questions they may have, and provide encouragement if they would like
+very very casual gaming and watching movies while eating snacks
 
 ### What to Expect From Me
 
-I recently got into cleaning faucets with Scrubbing Bubbles because the name is so cute
+I would be available to take them around the city, answer any questions they may have, and provide encouragement if they would like
 
 ### How I Envision My Relationship With My Mentee(s) 
 

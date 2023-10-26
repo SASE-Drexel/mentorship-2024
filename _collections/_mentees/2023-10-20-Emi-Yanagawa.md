@@ -15,11 +15,11 @@ Hi I’m Emi. I’m from Bay Area, California, (yes i love my avocados) I’m Ja
 
 ### Career Goals
 
-I love love love cats! I enjoy meeting new people and being exposed to different cultures. I like going to the gym 2-3 times a week to stay active. Right now I’m interested in getting into fencing! 
+It’s highly likely that my career goals will change throughout college but as of now I’m looking to become a nurse practitioner specializing in oncology or something surgical related. 
 
 ### Interests
 
-It’s highly likely that my career goals will change throughout college but as of now I’m looking to become a nurse practitioner specializing in oncology or something surgical related. 
+I love love love cats! I enjoy meeting new people and being exposed to different cultures. I like going to the gym 2-3 times a week to stay active. Right now I’m interested in getting into fencing! 
 
 ### Looking For
 

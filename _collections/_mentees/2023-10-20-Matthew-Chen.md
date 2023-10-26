@@ -15,11 +15,11 @@ Hi, My name is Matthew and I'm from northeast Philly! I'm a freshman majoring in
 
 ### Career Goals
 
-Some of my interests are F1 racing, different kinds of music, games, and sports.
+One of my career goals is to play a role in designing more advanced fighter jets and missile systems
 
 ### Interests
 
-One of my career goals is to play a role in designing more advanced fighter jets and missile systems
+Some of my interests are F1 racing, different kinds of music, games, and sports.
 
 ### Looking For
 

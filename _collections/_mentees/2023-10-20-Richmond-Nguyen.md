@@ -15,11 +15,11 @@ Currently a 2/5 and majoring in Software Engineering. I'm also commuter who you 
 
 ### Career Goals
 
-Korman Building, Bowling, Gym
+I would like to work for a finance company like Vanguard or Citadel.
 
 ### Interests
 
-I would like to work for a finance company like Vanguard or Citadel.
+Korman Building, Bowling, Gym
 
 ### Looking For
 

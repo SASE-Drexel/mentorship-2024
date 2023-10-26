@@ -15,11 +15,11 @@ My name is Matthew I am originally from South Carolina I moved here mainly cause
 
 ### Career Goals
 
-I like to cook I got good at it cause I kind of got tired of my parents cooking. So I learned how to make food for myself. I used to play video games but I didn't bring my PC with me cause I'm tryna be studious now.
+Not exactly sure but the reason I choose business is the problem-solving aspect. I think ideally I would like to be a consultant and choose something like information technology or data.
 
 ### Interests
 
-Not exactly sure but the reason I choose business is the problem-solving aspect. I think ideally I would like to be a consultant and choose something like information technology or data.
+I like to cook I got good at it cause I kind of got tired of my parents cooking. So I learned how to make food for myself. I used to play video games but I didn't bring my PC with me cause I'm tryna be studious now.
 
 ### Looking For
 

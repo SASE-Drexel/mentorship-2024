@@ -15,11 +15,11 @@ I was born in China but moved to the US when I was 3. I'm normally quiet and res
 
 ### Career Goals
 
-I started cooking in 6th grade and developed an interest in it. I also like to bake different kinds of pastries and cakes 🍰 I also started gardening a couple of years back. Some of the things I grow includes tomato, greens, peppers, and squash. 
+Right now I'm not sure what careers I want to go into, but I'm thinking of accounting or business analyst. Hopefully, I get to explore all my options through co-op. 
 
 ### Interests
 
-Right now I'm not sure what careers I want to go into, but I'm thinking of accounting or business analyst. Hopefully, I get to explore all my options through co-op. 
+I started cooking in 6th grade and developed an interest in it. I also like to bake different kinds of pastries and cakes 🍰 I also started gardening a couple of years back. Some of the things I grow includes tomato, greens, peppers, and squash. 
 
 ### Looking For
 

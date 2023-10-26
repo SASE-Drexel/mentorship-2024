@@ -3,7 +3,7 @@ layout: post
 title: Andrew Zhang 
 date: 2023-10-20
 image: assets/images/Andrew_Zhang - Andrew Zhang.jpg
-about: videogames, gym, eating
+about: i like learning new things. (ex. food places, tricks and more)
 year: Sophomore
 major: Computer Science
 
@@ -11,15 +11,15 @@ major: Computer Science
 
 ### About
 
-videogames, gym, eating
+i like learning new things. (ex. food places, tricks and more)
 
 ### Why Do I Want To Be a SASE Mentor?
 
-software engineer @ big tech 
+potluck & hotpot is fun
 
 ### Career Goals
 
-potluck & hotpot is fun
+software engineer @ big tech 
 
 ### Co-ops
 
@@ -27,11 +27,11 @@ None
 
 ### Interests
 
-it would look like finn and jake from adventure time. I would mentor my mentee by offering great advices (ex. how not to get hustled on campus, best floor to park in drexel parking garage and more)
+videogames, gym, eating
 
 ### What to Expect From Me
 
-i like learning new things. (ex. food places, tricks and more)
+it would look like finn and jake from adventure time. I would mentor my mentee by offering great advices (ex. how not to get hustled on campus, best floor to park in drexel parking garage and more)
 
 ### How I Envision My Relationship With My Mentee(s) 
 

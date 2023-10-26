@@ -15,11 +15,11 @@ I would say I am someone who is dedicated and earnest once I commit myself to so
 
 ### Career Goals
 
-I enjoy reading, mostly fiction but I love classics as well. I listen to either R&B, rap, or indie music; it really just depends on the weather. And in my free time, I play pool (billiards) a lot but I’m actually getting worse at it so maybe I need to find a new hobby. 
+I am a nursing major with the goal of becoming either a Nurse Practitioner or a CRNA (Nurse Anesthetist). I never knew how much I enjoyed being in healthcare until I started Anatomy 101; it kind of solidified my career choice for me. I also plan to do travel-nursing before going to grad school. 
 
 ### Interests
 
-I am a nursing major with the goal of becoming either a Nurse Practitioner or a CRNA (Nurse Anesthetist). I never knew how much I enjoyed being in healthcare until I started Anatomy 101; it kind of solidified my career choice for me. I also plan to do travel-nursing before going to grad school. 
+I enjoy reading, mostly fiction but I love classics as well. I listen to either R&B, rap, or indie music; it really just depends on the weather. And in my free time, I play pool (billiards) a lot but I’m actually getting worse at it so maybe I need to find a new hobby. 
 
 ### Looking For
 

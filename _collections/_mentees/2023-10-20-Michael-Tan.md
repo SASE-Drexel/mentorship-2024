@@ -15,11 +15,11 @@ Hi!!! My name is Michael and I'm a second year biology major. I like to play vid
 
 ### Career Goals
 
-I like to walk around the city and explore places, new restaurants, and be around my friends. I listen to all kinds of music genres and am willing to accept music recommendations! I also like to be challenged with doing new things because I kind of get bored easily.
+I’m currently on the pre-med track preparing for med school. My plan is to become a physician so I can make a positive impact on other people. I hope to grow personally from meeting new people and collaborate with those in the medical field to continue learning about the newest advancements in medicine.
 
 ### Interests
 
-I’m currently on the pre-med track preparing for med school. My plan is to become a physician so I can make a positive impact on other people. I hope to grow personally from meeting new people and collaborate with those in the medical field to continue learning about the newest advancements in medicine.
+I like to walk around the city and explore places, new restaurants, and be around my friends. I listen to all kinds of music genres and am willing to accept music recommendations! I also like to be challenged with doing new things because I kind of get bored easily.
 
 ### Looking For
 

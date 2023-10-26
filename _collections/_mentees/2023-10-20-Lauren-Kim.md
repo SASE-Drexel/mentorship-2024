@@ -15,11 +15,11 @@ I'm a bit of a workaholic and pretty energetic. I love being out and about but a
 
 ### Career Goals
 
-I try my best to volunteer at least once a week, currently have been signing up for volunteering opportunities from the asian orgs but I typically enjoy walking dogs for Saved Me. I also love love love food and am big on spending time with people even if its just to go grocery shopping. 
+I plan to go to medical school and work with children either as a pediatrician or pediatric psychiatrist and encourage more holistic solutions. 
 
 ### Interests
 
-I plan to go to medical school and work with children either as a pediatrician or pediatric psychiatrist and encourage more holistic solutions. 
+I try my best to volunteer at least once a week, currently have been signing up for volunteering opportunities from the asian orgs but I typically enjoy walking dogs for Saved Me. I also love love love food and am big on spending time with people even if its just to go grocery shopping. 
 
 ### Looking For
 

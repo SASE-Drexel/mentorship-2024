@@ -15,11 +15,11 @@ I'm Ana and I'm currently studying UX Design. I would consider myself to be an o
 
 ### Career Goals
 
-Outside of school, I enjoy a lot of different artistic mediums such as design through media, painting with acrylics, and charcoal art. I've also been running long distance for 7 years now, and I enjoy training for long runs. Academically, I enjoy English and writing as a little side hobby. These passions fuel my creativity and keep me motivated.
+One of my biggest goals right now is to expand my resume and portfolio. I also want to gain more experience is UX before I go into my Co-Ops. In the future I hope to be a part of some design team for a tech company to improve systems, UI design, or even product design for a better user experience. 
 
 ### Interests
 
-One of my biggest goals right now is to expand my resume and portfolio. I also want to gain more experience is UX before I go into my Co-Ops. In the future I hope to be a part of some design team for a tech company to improve systems, UI design, or even product design for a better user experience. 
+Outside of school, I enjoy a lot of different artistic mediums such as design through media, painting with acrylics, and charcoal art. I've also been running long distance for 7 years now, and I enjoy training for long runs. Academically, I enjoy English and writing as a little side hobby. These passions fuel my creativity and keep me motivated.
 
 ### Looking For
 

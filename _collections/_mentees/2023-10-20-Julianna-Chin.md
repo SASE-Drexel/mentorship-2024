@@ -15,11 +15,11 @@ I am an empathetic and trustworthy team player. While I don’t mind taking on s
 
 ### Career Goals
 
-I like to draw, paint, crochet. thrift, hang out with friends, and watch movies.
+I want to be a UX or UI designer and start a small business/shop.
 
 ### Interests
 
-I want to be a UX or UI designer and start a small business/shop.
+I like to draw, paint, crochet. thrift, hang out with friends, and watch movies.
 
 ### Looking For
 

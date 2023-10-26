@@ -3,7 +3,7 @@ layout: post
 title: Edric Tang 
 date: 2023-10-20
 image: assets/images/Edric_Tang - Edric Tang.jpg
-about: I like playing games, hanging out with friends, exploring the city and new places, and eating good food.
+about: I'm 6'1
 year: Sophomore
 major: Electrical and Computer Engineering
 
@@ -11,15 +11,15 @@ major: Electrical and Computer Engineering
 
 ### About
 
-I like playing games, hanging out with friends, exploring the city and new places, and eating good food.
+I'm 6'1
 
 ### Why Do I Want To Be a SASE Mentor?
 
-I just want to find a co-op please Drexel please
+I was just told to sign up and I don't know what I am signing up for. Having a mentee would be like having a sidekick and I think that's cool. I also really want to help mentees find their way around Drexel since it is really hard to navigate and because I was lost my first year. 
 
 ### Career Goals
 
-I was just told to sign up and I don't know what I am signing up for. Having a mentee would be like having a sidekick and I think that's cool. I also really want to help mentees find their way around Drexel since it is really hard to navigate and because I was lost my first year. 
+I just want to find a co-op please Drexel please
 
 ### Co-ops
 
@@ -27,11 +27,11 @@ None
 
 ### Interests
 
-I will not neglect them. I shall nurture them like a baby bird and making sure that they can fly on their own. I would also help them with whatever they need, whether it be school work or being there for them. 
+I like playing games, hanging out with friends, exploring the city and new places, and eating good food.
 
 ### What to Expect From Me
 
-I'm 6'1
+I will not neglect them. I shall nurture them like a baby bird and making sure that they can fly on their own. I would also help them with whatever they need, whether it be school work or being there for them. 
 
 ### How I Envision My Relationship With My Mentee(s) 
 

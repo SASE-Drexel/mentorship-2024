@@ -2,8 +2,8 @@
 layout: post
 title: Wayne Chen 
 date: 2023-10-20
-image: assets/images/Wayne_Chen - Wayne Chen.jpg
-about: raving, photography, rotting at home, spilling tea, and being spontaneous
+image: assets/images/wayne_chen - wayne chen.jpg
+about: um struggling
 year: Senior
 major: mis, business analytics
 
@@ -11,15 +11,15 @@ major: mis, business analytics
 
 ### About
 
-raving, photography, rotting at home, spilling tea, and being spontaneous
+um struggling
 
 ### Why Do I Want To Be a SASE Mentor?
 
-make money
+i <3 sase
 
 ### Career Goals
 
-i <3 sase
+make money
 
 ### Co-ops
 
@@ -27,11 +27,11 @@ microsociety, comcast, blackrock
 
 ### Interests
 
-we can be besties, but i can also help with any questions or advice you'd have. i also have chegg 8)
+raving, photography, rotting at home, spilling tea, and being spontaneous
 
 ### What to Expect From Me
 
-um struggling
+we can be besties, but i can also help with any questions or advice you'd have. i also have chegg 8)
 
 ### How I Envision My Relationship With My Mentee(s) 
 

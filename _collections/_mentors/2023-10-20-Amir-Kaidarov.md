@@ -3,8 +3,7 @@ layout: post
 title: Amir Kaidarov 
 date: 2023-10-20
 image: assets/images/Amir_Kaidarov - Amir Kaidarov.jpg
-about: Professional- mobile development, data science, ai, math.
-General: basketball, boxing, fencing, learning languages, and anything that would give me an adrenaline rush
+about: Wasn't there an easier question than that?
 year: Pre-Junior
 major: Software Engineering
 
@@ -12,16 +11,15 @@ major: Software Engineering
 
 ### About
 
-Professional: mobile development, data science, ai, math.
-General: basketball, boxing, fencing, learning languages, and anything that would give me an adrenaline rush
+Wasn't there an easier question than that?
 
 ### Why Do I Want To Be a SASE Mentor?
 
-Have a preference for the commercial software engineering at the moment, but also interested in research. Plan to get a Master's or PhD for fun in Economics, Physics, or Math.
+Asking myself the same question.
 
 ### Career Goals
 
-Asking myself the same question.
+Have a preference for the commercial software engineering at the moment, but also interested in research. Plan to get a Master's or PhD for fun in Economics, Physics, or Math.
 
 ### Co-ops
 
@@ -29,11 +27,12 @@ Software Engineer @ Medidata Solutions
 
 ### Interests
 
-Will try to figure out how to deal with stuff together
+Professional: mobile development, data science, ai, math.
+General: basketball, boxing, fencing, learning languages, and anything that would give me an adrenaline rush
 
 ### What to Expect From Me
 
-Wasn't there an easier question than that?
+Will try to figure out how to deal with stuff together
 
 ### How I Envision My Relationship With My Mentee(s) 
 

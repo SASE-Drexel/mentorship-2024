@@ -15,11 +15,11 @@ Chinese American (Cantonese), #1 procrastinator, quiet at first but nice, uncult
 
 ### Career Goals
 
-STEM (ofc), arts/doodles for fun, Vocaloid/vocal synths, CAD, video games (mostly rhythm games), video editing 
+Making out of college alive, get a good job and coop, 
 
 ### Interests
 
-Making out of college alive, get a good job and coop, 
+STEM (ofc), arts/doodles for fun, Vocaloid/vocal synths, CAD, video games (mostly rhythm games), video editing 
 
 ### Looking For
 

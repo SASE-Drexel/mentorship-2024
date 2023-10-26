@@ -3,7 +3,7 @@ layout: post
 title: Sanna Varadhan 
 date: 2023-10-20
 image: assets/images/Sanna_Varadhan - Sanna Varadhan.jpg
-about: playing the sims 4, dancing for dkpc prism, being a gymrat, going to indian sizzler, getting coco's
+about: i am NOT sana from TWICE. i love ice cream. i am an easy person to talk to #goodvibesonly 
 year: Senior
 major: Psychology
 
@@ -11,15 +11,15 @@ major: Psychology
 
 ### About
 
-playing the sims 4, dancing for dkpc prism, being a gymrat, going to indian sizzler, getting coco's
+i am NOT sana from TWICE. i love ice cream. i am an easy person to talk to #goodvibesonly 
 
 ### Why Do I Want To Be a SASE Mentor?
 
-I plan to go to grad school in clinical psychology with a focus in older adult research, and eventually pursue work with older adults in a hospital setting! :D
+because i love being a mom
 
 ### Career Goals
 
-because i love being a mom
+I plan to go to grad school in clinical psychology with a focus in older adult research, and eventually pursue work with older adults in a hospital setting! :D
 
 ### Co-ops
 
@@ -27,11 +27,11 @@ Research Assistant at Johns Hopkins University
 
 ### Interests
 
-i am an oldhead #senior👵🏽 so i would give my mentee advice on how to navigate their time at drexel easily. if they're a first year i can help them get adjusted to the fast-paced quarter system by giving them tips + tricks on how i managed to slay my classes at drexel. im a psych major too so i would definitely be there for them if they need someone to talk to about any struggles they are experiencing, my degree is literally on how to be a good listener/empathizer :P
+playing the sims 4, dancing for dkpc prism, being a gymrat, going to indian sizzler, getting coco's
 
 ### What to Expect From Me
 
-i am NOT sana from TWICE. i love ice cream. i am an easy person to talk to #goodvibesonly 
+i am an oldhead #senior👵🏽 so i would give my mentee advice on how to navigate their time at drexel easily. if they're a first year i can help them get adjusted to the fast-paced quarter system by giving them tips + tricks on how i managed to slay my classes at drexel. im a psych major too so i would definitely be there for them if they need someone to talk to about any struggles they are experiencing, my degree is literally on how to be a good listener/empathizer :P
 
 ### How I Envision My Relationship With My Mentee(s) 
 

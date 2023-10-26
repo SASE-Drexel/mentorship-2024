@@ -17,11 +17,11 @@ I’m an introverted guy who’s pretty simple and wants to be a better version 
 
 ### Career Goals
 
-I like to listen to music, explore new areas, play sports.
+To be able to have a job that I enjoy and that will be good financially.
 
 ### Interests
 
-To be able to have a job that I enjoy and that will be good financially.
+I like to listen to music, explore new areas, play sports.
 
 ### Looking For
 

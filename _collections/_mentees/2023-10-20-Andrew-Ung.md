@@ -15,11 +15,11 @@ I usually don't talk a lot, so when I do, you know it's because I see you as a c
 
 ### Career Goals
 
-I love to cook because it tastes better when you make it yourself. Tennis and Badminton are the only valid sports out there. If I had the money, I would travel and go on road trips with friends and family everyday. I also have an addition to Lego that people say I have a problem with.
+I hope to pursue a career as a nurse anesthetist or nurse practitioner. Both very rewarding fields with amazing salaries. Although I am not interested in travel nursing, I do hope to one day travel all over the world for my own pleasure as well as experience what the healthcare system is like outside the U.S. 
 
 ### Interests
 
-I hope to pursue a career as a nurse anesthetist or nurse practitioner. Both very rewarding fields with amazing salaries. Although I am not interested in travel nursing, I do hope to one day travel all over the world for my own pleasure as well as experience what the healthcare system is like outside the U.S. 
+I love to cook because it tastes better when you make it yourself. Tennis and Badminton are the only valid sports out there. If I had the money, I would travel and go on road trips with friends and family everyday. I also have an addition to Lego that people say I have a problem with.
 
 ### Looking For
 

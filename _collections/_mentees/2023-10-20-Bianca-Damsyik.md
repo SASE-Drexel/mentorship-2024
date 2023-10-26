@@ -15,11 +15,11 @@ As an Indonesian-American, I often find it difficult to fit into certain groups.
 
 ### Career Goals
 
-My interests include binging marvel movies, spending 9+ hours on homework, and hanging out with my cat. I’ve done ballet since I was six and hope to continue that while at Drexel. I also love to scrapbook whenever I have the chance.
+Career goal wise, I aim to have a job that’ll allow me to retire my parents. I have seen them struggle and I want to change that for them after I graduate from Drexel. I am most interested in banking or hopefully working for a company like Google or Chrome.
 
 ### Interests
 
-Career goal wise, I aim to have a job that’ll allow me to retire my parents. I have seen them struggle and I want to change that for them after I graduate from Drexel. I am most interested in banking or hopefully working for a company like Google or Chrome.
+My interests include binging marvel movies, spending 9+ hours on homework, and hanging out with my cat. I’ve done ballet since I was six and hope to continue that while at Drexel. I also love to scrapbook whenever I have the chance.
 
 ### Looking For
 

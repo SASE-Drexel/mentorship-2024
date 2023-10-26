@@ -15,11 +15,11 @@ Hi, I'm Ben and currently a freshman. I'm a little introverted, but I am friendl
 
 ### Career Goals
 
-Academically, I am interested in computer science and math, and I am thinking about double majoring in them. Outside of academics I like to play videogames. I also like watching shows but mostly anime. My favorite genre of music is Kpop, and my favorite group is BLACKPINK. 
+I want to work in the quantitative trading field or as a software engineer. I’m also interested in working on machine learning and AI. However, I don’t have much experience in any of these fields, so I want to try to find coops to see if I like them. 
 
 ### Interests
 
-I want to work in the quantitative trading field or as a software engineer. I’m also interested in working on machine learning and AI. However, I don’t have much experience in any of these fields, so I want to try to find coops to see if I like them. 
+Academically, I am interested in computer science and math, and I am thinking about double majoring in them. Outside of academics I like to play videogames. I also like watching shows but mostly anime. My favorite genre of music is Kpop, and my favorite group is BLACKPINK. 
 
 ### Looking For
 

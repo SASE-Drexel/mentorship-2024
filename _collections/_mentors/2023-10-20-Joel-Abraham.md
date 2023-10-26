@@ -3,7 +3,7 @@ layout: post
 title: Joel Abraham 
 date: 2023-10-20
 image: assets/images/Joel_Abraham - Joel Abraham.jpg
-about: volleyball, cars, bikes, hiking, travel
+about: Hallo. I am ur Joel. I’m totally sane in the head so you’ll have that to look forward to. Always down for anything. 
 year: Pre-Junior
 major: computer engineering 
 
@@ -11,15 +11,15 @@ major: computer engineering
 
 ### About
 
-volleyball, cars, bikes, hiking, travel
+Hallo. I am ur Joel. I’m totally sane in the head so you’ll have that to look forward to. Always down for anything. 
 
 ### Why Do I Want To Be a SASE Mentor?
 
-I want a job
+I’d like to pass on any knowledge i have to the future kiddos at drexel may you rest in peace
 
 ### Career Goals
 
-I’d like to pass on any knowledge i have to the future kiddos at drexel may you rest in peace
+I want a job
 
 ### Co-ops
 
@@ -27,11 +27,11 @@ Navsea, Fluke
 
 ### Interests
 
-i’ll be ur best friend and give questionable advise lol. if you’re down to chill and just vibe that’s pretty cool with me
+volleyball, cars, bikes, hiking, travel
 
 ### What to Expect From Me
 
-Hallo. I am ur Joel. I’m totally sane in the head so you’ll have that to look forward to. Always down for anything. 
+i’ll be ur best friend and give questionable advise lol. if you’re down to chill and just vibe that’s pretty cool with me
 
 ### How I Envision My Relationship With My Mentee(s) 
 

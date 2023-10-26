@@ -15,11 +15,11 @@ My name is Taqi Tahmid and I am a determined and diligent freshman studying cybe
 
 ### Career Goals
 
-I'm passionate about cybersecurity and artificial intelligence, aiming to enhance leadership and decision-making skills. I strive to gain hands-on experience, expand my network, and become a more proficient and well-rounded student, continually learning and acquiring new skills.
+My career goals revolve around gaining extensive experience in computer science and cybersecurity. I aim to adapt effectively to the college lifestyle, setting a strong foundation for future success in these fields.
 
 ### Interests
 
-My career goals revolve around gaining extensive experience in computer science and cybersecurity. I aim to adapt effectively to the college lifestyle, setting a strong foundation for future success in these fields.
+I'm passionate about cybersecurity and artificial intelligence, aiming to enhance leadership and decision-making skills. I strive to gain hands-on experience, expand my network, and become a more proficient and well-rounded student, continually learning and acquiring new skills.
 
 ### Looking For
 

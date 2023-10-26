@@ -3,7 +3,7 @@ layout: post
 title: Lawrence Ganaban 
 date: 2023-10-20
 image: assets/images/Lawrence_Ganaban - Lawrence Ganaban.jpg
-about: I’m big into anime and gaming, as well as flight simulation, model kits, Dungeons & Dragons, and volleyball. 
+about: I’m a fairly introverted person, but I enjoy hanging out with friends, whether it be online or in person. While I can be quite busy at times, I always try to make time for others. 
 year: Sophomore
 major: Mechanical Engineering
 
@@ -11,15 +11,15 @@ major: Mechanical Engineering
 
 ### About
 
-I’m big into anime and gaming, as well as flight simulation, model kits, Dungeons & Dragons, and volleyball. 
+I’m a fairly introverted person, but I enjoy hanging out with friends, whether it be online or in person. While I can be quite busy at times, I always try to make time for others. 
 
 ### Why Do I Want To Be a SASE Mentor?
 
-My primary career goal is to pursue a career in aerospace, specifically in design, and hopefully work on the newest tech in the industry. In addition, I hope to work my way up into different leadership positions in projects and different organizations.
+College can be a really tough transition, even if you excelled in high school. I learned a lot from other people when I came to Drexel, and I want to pass that knowledge on so the transition to Drexel isn’t quite as hard as it was for me.
 
 ### Career Goals
 
-College can be a really tough transition, even if you excelled in high school. I learned a lot from other people when I came to Drexel, and I want to pass that knowledge on so the transition to Drexel isn’t quite as hard as it was for me.
+My primary career goal is to pursue a career in aerospace, specifically in design, and hopefully work on the newest tech in the industry. In addition, I hope to work my way up into different leadership positions in projects and different organizations.
 
 ### Co-ops
 
@@ -27,11 +27,11 @@ Manufacturing Engineer @ Curtiss-Wright
 
 ### Interests
 
-My mentorship would be fairly casual, with meetups whenever my mentee would like to talk about whatever, from professional development, to surviving classes.
+I’m big into anime and gaming, as well as flight simulation, model kits, Dungeons & Dragons, and volleyball. 
 
 ### What to Expect From Me
 
-I’m a fairly introverted person, but I enjoy hanging out with friends, whether it be online or in person. While I can be quite busy at times, I always try to make time for others. 
+My mentorship would be fairly casual, with meetups whenever my mentee would like to talk about whatever, from professional development, to surviving classes.
 
 ### How I Envision My Relationship With My Mentee(s) 
 

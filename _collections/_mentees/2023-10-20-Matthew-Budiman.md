@@ -15,11 +15,11 @@ I'm an introvert who's striving to embrace extroverted qualities. My determinati
 
 ### Career Goals
 
-My interests span the art of photography, a journey that transformed my passion into a thriving business. Additionally, I've nurtured a lifelong love for K-pop and anime. 
+While I'm uncertain about my specific career path in biology, my goal is to give back to my mother for her countless sacrifices. Her selflessness motivates me to succeed in my chosen field, even though she may not expect anything in return. It's my way of showing gratitude.
 
 ### Interests
 
-While I'm uncertain about my specific career path in biology, my goal is to give back to my mother for her countless sacrifices. Her selflessness motivates me to succeed in my chosen field, even though she may not expect anything in return. It's my way of showing gratitude.
+My interests span the art of photography, a journey that transformed my passion into a thriving business. Additionally, I've nurtured a lifelong love for K-pop and anime. 
 
 ### Looking For
 

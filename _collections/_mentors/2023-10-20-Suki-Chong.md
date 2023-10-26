@@ -3,7 +3,7 @@ layout: post
 title: Suki Chong 
 date: 2023-10-20
 image: assets/images/Suki_Chong - Suki Chong.jpg
-about: I enjoy playing bee swarm simulator on roblox, skateboarding, and making bad jokes
+about: 5'2", midlength black wolfcut hair, asian woman, glasses, usually repping reebok club c's, overall pretty chill
 year: Junior
 major: Comp Sci
 
@@ -11,15 +11,20 @@ major: Comp Sci
 
 ### About
 
-I enjoy playing bee swarm simulator on roblox, skateboarding, and making bad jokes
+- 5'2"
+- midlength black wolfcut hair
+- asian woman
+- glasses
+- usually repping reebok club c's
+- overall pretty chill
 
 ### Why Do I Want To Be a SASE Mentor?
 
-Software engineer at big tech firm 
+meet new people and guide them through college. also, to continue the lineage
 
 ### Career Goals
 
-meet new people and guide them through college. also, to continue the lineage
+Software engineer at big tech firm 
 
 ### Co-ops
 
@@ -27,16 +32,11 @@ Bristol Myers, Merck, Vanguard
 
 ### Interests
 
-It would be pretty chill, we can grab food or boba and you can ask me for advice for resumes and co-ops if you need.n
+I enjoy playing bee swarm simulator on roblox, skateboarding, and making bad jokes
 
 ### What to Expect From Me
 
-- 5'2"
-- midlength black wolfcut hair
-- asian woman
-- glasses
-- usually repping reebok club c's
-- overall pretty chill
+It would be pretty chill, we can grab food or boba and you can ask me for advice for resumes and co-ops if you need.n
 
 ### How I Envision My Relationship With My Mentee(s) 
 

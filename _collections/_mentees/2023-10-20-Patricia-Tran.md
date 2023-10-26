@@ -15,11 +15,11 @@ I am a computer science major, and I hope to make the most out of my college car
 
 ### Career Goals
 
-I like hanging out with friends and trying out new restaurants or cafes. I also like to go thrifting and exploring local shops. I like to go hiking during the summer, and I got into pickleball last year and ran into my physics teacher at a pickleball court.
+So far, I hope to work as a front-end developer or website developer in the future. I am looking forward to my co-ops and using those to learn what I like to do. I hope that I can both work in a team and be a leader in my career.
 
 ### Interests
 
-So far, I hope to work as a front-end developer or website developer in the future. I am looking forward to my co-ops and using those to learn what I like to do. I hope that I can both work in a team and be a leader in my career.
+I like hanging out with friends and trying out new restaurants or cafes. I also like to go thrifting and exploring local shops. I like to go hiking during the summer, and I got into pickleball last year and ran into my physics teacher at a pickleball court.
 
 ### Looking For
 

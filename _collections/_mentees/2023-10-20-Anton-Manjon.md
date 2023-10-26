@@ -15,11 +15,11 @@ Filipino American student studying mechanical engineering. I’m looking to take
 
 ### Career Goals
 
-I’m interested in aerospace and robotics. I’ve joined Drexel Lunabotics, Formula SAE, and SAE EV. Besides academics, I like playing tennis and volleyball. I have a collection of succulents and cacti. I listen to rock music. 
+Hopefully initially end up at a decent paying job in a city somewhere. Work in the private engineering sector for a bit and eventually end up at NASA for a fulfilling job and fat government benefits. 
 
 ### Interests
 
-Hopefully initially end up at a decent paying job in a city somewhere. Work in the private engineering sector for a bit and eventually end up at NASA for a fulfilling job and fat government benefits. 
+I’m interested in aerospace and robotics. I’ve joined Drexel Lunabotics, Formula SAE, and SAE EV. Besides academics, I like playing tennis and volleyball. I have a collection of succulents and cacti. I listen to rock music. 
 
 ### Looking For
 

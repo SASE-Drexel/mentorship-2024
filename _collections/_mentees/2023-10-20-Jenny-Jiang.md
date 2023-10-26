@@ -15,11 +15,14 @@ Hihiiii! My name is Jenny! I'm an ENFJ, so I really enjoy going on spontaneous t
 
 ### Career Goals
 
-#NAME?
+I aspire to become a registered nurse after graduation! (currently unsure what specialty, but hopefully through clinicals I can see my interests)!
 
 ### Interests
 
-I aspire to become a registered nurse after graduation! (currently unsure what specialty, but hopefully through clinicals I can see my interests)!
+-volleyball
+-aesthetics
+-calligraphy 
+-spending quality time with people 
 
 ### Looking For
 

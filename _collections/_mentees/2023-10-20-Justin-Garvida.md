@@ -15,11 +15,11 @@ Hi my name is Justin. I’m a sophomore software engineering major with a minor 
 
 ### Career Goals
 
-Coding, gym, basketball, music, video games, hanging out with friends, thrifting, photography (not good getting better
+I want to become a software engineer and get a good paying job so that I can retire early
 
 ### Interests
 
-I want to become a software engineer and get a good paying job so that I can retire early
+Coding, gym, basketball, music, video games, hanging out with friends, thrifting, photography (not good getting better
 
 ### Looking For
 

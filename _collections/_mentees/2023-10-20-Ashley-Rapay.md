@@ -15,11 +15,11 @@ I am a Filipino American who is very kind, caring, sporty, ambiverted, responsib
 
 ### Career Goals
 
-I like drawing, painting, crafting, writing, reading, photography, volleyball, lacrosse, sports in general, reading, writing, journaling, singing and playing instruments.  
+I’m unsure of my career goals, but as a product design major I think I want to go towards making products in the sports industry. Other than that, im not so sure yet but I do like crafting things. 
 
 ### Interests
 
-I’m unsure of my career goals, but as a product design major I think I want to go towards making products in the sports industry. Other than that, im not so sure yet but I do like crafting things. 
+I like drawing, painting, crafting, writing, reading, photography, volleyball, lacrosse, sports in general, reading, writing, journaling, singing and playing instruments.  
 
 ### Looking For
 

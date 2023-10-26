@@ -15,11 +15,11 @@ I'm a tech enthusiast who thrives in the digital realm. I'm all about exploring 
 
 ### Career Goals
 
-I'm passionate about planting and gaming. Cultivating plants brings me peace, while gaming provides excitement and challenges. Planting and gardening are my sources of relaxation and fulfillment. There's nothing quite like nurturing a little green space and watching it thrive. On the flip side, I also enjoy gaming – whether it's video games, board games, or anything that's all about having fun and challenging the mind.
+My career goal is to excel in software and project management. I aspire to lead successful projects, utilizing my technical skills and organizational expertise to deliver impactful results.
 
 ### Interests
 
-My career goal is to excel in software and project management. I aspire to lead successful projects, utilizing my technical skills and organizational expertise to deliver impactful results.
+I'm passionate about planting and gaming. Cultivating plants brings me peace, while gaming provides excitement and challenges. Planting and gardening are my sources of relaxation and fulfillment. There's nothing quite like nurturing a little green space and watching it thrive. On the flip side, I also enjoy gaming – whether it's video games, board games, or anything that's all about having fun and challenging the mind.
 
 ### Looking For
 

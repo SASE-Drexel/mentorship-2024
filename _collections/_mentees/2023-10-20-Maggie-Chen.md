@@ -11,23 +11,24 @@ major: Marketing
 
 ### About
 
-I like to believe that I am funny. 
-A bit of a yapper.
-Enthusiastic!
-A little head empty sometimes.
+- I like to believe that I am funny. 
+- A bit of a yapper.
+- Enthusiastic!
+- A little head empty sometimes.
 
 ### Career Goals
 
-Scrapbooking
-League of Legends (unfortunately 😭)
-bullet journaling 
-eating (urban food <3)
-NCT (like a sticka hehe)
-Candy Crushing!
+- I hope to be a marketing consultant 
+- My main goal is to be able to live comfortably with the career I choose
 
 ### Interests
 
-#NAME?
+- Scrapbooking
+- League of Legends (unfortunately 😭)
+- bullet journaling 
+- eating (urban food <3)
+- NCT (like a sticka hehe)
+- Candy Crushing!
 
 ### Looking For
 

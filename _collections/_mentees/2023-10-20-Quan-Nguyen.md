@@ -15,11 +15,11 @@ I'm an understanding, reliable, and light hearted person. I am very honest about
 
 ### Career Goals
 
-I like walking, biking, running, casual reading, eating, and listening to music. I listen to a lot of R&B, but also listen to a lot of other types of music, usually upbeat music. I also like fashion and shoes, especially Asics. I like going to museums (I love the Mutter museum) and enjoy movies. 
+I'm honestly open to anything in the chemistry field, however, I would love to research ingredients and formulate skincare or perfume products. I guess it would be a dream to create cosmetic products for a smaller business while also having some form of leadership position in the brand too. 
 
 ### Interests
 
-I'm honestly open to anything in the chemistry field, however, I would love to research ingredients and formulate skincare or perfume products. I guess it would be a dream to create cosmetic products for a smaller business while also having some form of leadership position in the brand too. 
+I like walking, biking, running, casual reading, eating, and listening to music. I listen to a lot of R&B, but also listen to a lot of other types of music, usually upbeat music. I also like fashion and shoes, especially Asics. I like going to museums (I love the Mutter museum) and enjoy movies. 
 
 ### Looking For
 

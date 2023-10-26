@@ -18,6 +18,10 @@ I love photography and capturing memories, being in nature (watching sunsets and
 
 ### Career Goals
 
+I switched over to UXID recently, and I'm excited to learn more skills and branch out! I want to be able to learn more about what I like so that I can get better at what I do! I want to do something I care about, so it can help me live comfortably and provide for the people I care about!
+
+### Interests
+
 - photography!
 - music (varied taste as long as I vibe with it, but mainly the genres of kpop, pop and bollywood/indian!)
 - watching shows 
@@ -25,10 +29,6 @@ I love photography and capturing memories, being in nature (watching sunsets and
 - playing volleyball
 - taking day trips and exploring the city!
 - reading!
-
-### Interests
-
-I switched over to UXID recently, and I'm excited to learn more skills and branch out! I want to be able to learn more about what I like so that I can get better at what I do! I want to do something I care about, so it can help me live comfortably and provide for the people I care about!
 
 ### Looking For
 
