@@ -2,7 +2,7 @@
 layout: post
 title: Sanjana Gunda 
 date: 2023-10-20
-image: assets/images/Sanjana_Gunda - Sanjana Gunda.jpg
+image: assets/images/Sanjana_Gunda - Sanjana Gunda.JPG
 about: Hi, I'm Sanjana! While I initially seem intimidating and super shy (New Jeans reference not intended), I love meeting and interacting with new people a lot. I'm pretty goal-oriented and take my work seriously, but I love going out to get food or doing anything fun when it's the weekend. 
 year: Sophomore
 major: Computer Science
@@ -38,5 +38,5 @@ I'd basically be their friend and act as a support system any time they need it.
 We'd be good friends and do things related to and outside of academics and professional tasks. I'll basically help them and give them the advice they need. I also think it's important to have fun every once in a while, so we could hang out and do things unrelated to schoolwork.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2023/assets/images/Sanjana_Gunda - Sanjana Gunda.jpg" alt="Sanjana Gunda" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2023/assets/images/Sanjana_Gunda - Sanjana Gunda.JPG" alt="Sanjana Gunda" class="rounded post-img" />
 </div>

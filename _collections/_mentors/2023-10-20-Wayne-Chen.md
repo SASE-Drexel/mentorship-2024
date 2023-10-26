@@ -2,7 +2,7 @@
 layout: post
 title: Wayne Chen 
 date: 2023-10-20
-image: assets/images/wayne_chen - wayne chem.jpg
+image: assets/images/wayne_chen - wayne chen.jpg
 about: um struggling
 year: Senior
 major: mis, business analytics
