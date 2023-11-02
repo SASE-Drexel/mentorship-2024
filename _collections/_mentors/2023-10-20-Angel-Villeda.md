@@ -38,5 +38,5 @@ Give advice where I can and be available when needed.
 Chill Older Sibling
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2023/assets/images/Ángel_Villeda - Ángel Villeda.jpg" alt="Ángel Villeda Pérez" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2023/assets/images/Angel_Villeda - Angel Villeda.jpg" alt="Ángel Villeda Pérez" class="rounded post-img" />
 </div>
