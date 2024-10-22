@@ -26,5 +26,5 @@ Videogames, building model kits, building legos, gyming
 Im looking for someone that's social, patient, and is able to connect people together.
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2024/assets/images/Nicholas_lukito - Nicholas lukito.jpg" alt="Nicholas lukito" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2024/assets/images/Nicholas_Lukito - Nicholas Lukito.jpg" alt="Nicholas lukito" class="rounded post-img" />
 </div>
