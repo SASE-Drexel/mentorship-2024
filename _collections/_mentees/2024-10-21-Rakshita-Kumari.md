@@ -3,9 +3,8 @@ layout: post
 title: Rakshita Kumari 
 date: 2024-10-21
 image: assets/images/Rakshita_Kumari - Rakshita Kumari.jpg
-about: I am an international student from India. I am an introvert so, it's usually difficult for me to socialize. 
-
-    I love to read books and write stuff. 
+about: I am an international student from India. I am an introvert so, it's usually difficult for me to socialize. 
+I love to read books and write stuff. 
 year: Freshman
 major: Computer Science
 
@@ -13,8 +12,7 @@ major: Computer Science
 
 ### About
 
-I am an international student from India. I am an introvert so, it's usually difficult for me to socialize. 
-
+I am an international student from India. I am an introvert so, it's usually difficult for me to socialize. 
 I love to read books and write stuff. 
 
 ### Career Goals

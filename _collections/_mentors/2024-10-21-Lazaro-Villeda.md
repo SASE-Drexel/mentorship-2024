@@ -4,7 +4,7 @@ title: Lazaro Villeda
 date: 2024-10-21
 image: assets/images/Lazaro_Villeda - Lazaro Villeda.jpg
 about: Open to trying and learning new thing, and consider myself to be chill and goofy at times. Also, I think sometimes in the life I’m too competitive yk it’s good to be competitive in the field, but sometime in the life you don’t be like this
-year: ldv28@drexel.edu
+year: Sophmore
 major: Mechanical Engineering 
 
 ---

@@ -4,7 +4,7 @@ title: Betty Shin
 date: 2024-10-21
 image: assets/images/Betty_Shin - Betty Shin.jpg
 about: Hey, I’m Betty, a sophomore majoring in User Experience & Interaction Design. I’m originally from South Korea, but I’ve spent the past eight years in California before my passion for UX design brought me to Drexel in Philly! In my free time, I love curating Pinterest boards filled with old architecture, interior design, and fashion. I’m excited to learn and grow through the mentorship program alongside this amazing community!
-year: bs3365@drexel.edu
+year: Sophmore
 major: User Experience & Interaction Design
 
 ---

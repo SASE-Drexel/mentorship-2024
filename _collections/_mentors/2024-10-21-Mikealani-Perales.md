@@ -4,7 +4,7 @@ title: Mikealani Perales
 date: 2024-10-21
 image: assets/images/Mikealani_Perales - Mikealani Perales.jpg
 about: tired college student who spends too much on food/experiences :P
-year: mup29@drexel.edu
+year: Pre-Junior
 major: Mechanical Engineering
 
 ---

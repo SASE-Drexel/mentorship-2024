@@ -4,7 +4,7 @@ title: Joshua Hwang
 date: 2024-10-21
 image: assets/images/Joshua_Hwang - Joshua Hwang.jpg
 about: I’m a more extroverted person who likes finding new environments and experiences. 
-year: jh3854@drexel.edu
+year: Senior
 major: CS
 
 ---

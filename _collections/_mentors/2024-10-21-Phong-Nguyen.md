@@ -4,7 +4,7 @@ title: Phong Nguyen
 date: 2024-10-21
 image: assets/images/Phong_Nguyen - Phong Nguyen.jpg
 about: dm me on discord if you want to play games, my interests/favored genres are pretty diverse so shoot your shot
-year: ptn39@drexel.edu
+year: Pre-Junior
 major: Computer Engineer
 
 ---

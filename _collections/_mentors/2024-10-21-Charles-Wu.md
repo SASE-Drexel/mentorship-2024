@@ -4,7 +4,7 @@ title: Charles Wu
 date: 2024-10-21
 image: assets/images/Charles_Wu - Charles Wu.jpg
 about: College of Computing and Informatics most stylish freak 
-year: cyw37@drexel.edu
+year: Senior
 major: Computer Science 
 
 ---

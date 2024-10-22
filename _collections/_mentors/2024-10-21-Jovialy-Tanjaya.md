@@ -4,7 +4,7 @@ title: Jovialy Tanjaya
 date: 2024-10-21
 image: assets/images/Jovialy_Tanjaya - Jovialy Tanjaya.jpg
 about: I am a second year Health Sciences major aspiring to become a PA. I am a Philly native and love to explore new spaces in the city. I play competitive badminton for Drexel's team and it is one of my favorite hobbies. I am a matcha girly!! and love to explore new cafes. 
-year: jat444@drexel.edu
+year: Sophmore
 major: Health Sciences
 
 ---

@@ -4,7 +4,7 @@ title: Lawrence Ganaban
 date: 2024-10-21
 image: assets/images/Lawrence_Ganaban - Lawrence Ganaban.jpg
 about: Hi, I’m the Vice President of Drexel ASME and AIAA. I’m pretty involved with a decent amount of orgs around campus like FISDU and ASA, and I’d say I’m a pretty chill & laid back person i guess. 
-year: lg849@drexel.edu
+year: Pre-Junior
 major: Mechanical Engineering
 
 ---

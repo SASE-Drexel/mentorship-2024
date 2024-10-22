@@ -4,7 +4,7 @@ title: Sevinch A Rakhmonova
 date: 2024-10-21
 image: assets/images/Sevinch_A-Rakhmonova - Sevinch A-Rakhmonova.jpg
 about: My name is Sevinch, and I am a pre-med student super excited to be more involved in many of SASE's opportunities. I love cafes, doing pilates, playing tennis, cooking, journaling, and watercolor painting! I love exploring and traveling and taking pictures for memories!  I understand how difficult freshman year could be, so I look forward to giving back to the youth.
-year: sar434@drexel.edu
+year: Sophmore
 major: Biological Sciences
 
 ---

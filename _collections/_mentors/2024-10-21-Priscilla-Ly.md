@@ -4,7 +4,7 @@ title: Priscilla Ly
 date: 2024-10-21
 image: assets/images/Priscilla_Ly - Priscilla Ly.jpg
 about: Hi I'm Priscilla :D INFJ, Minecrafter,  5'2 and a half
-year: ptl45@drexel.edu
+year: Senior
 major: Marketing, Business Analytics, and Management Infomation Systems
 
 ---

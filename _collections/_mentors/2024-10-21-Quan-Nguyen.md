@@ -4,7 +4,7 @@ title: Quan Nguyen
 date: 2024-10-21
 image: assets/images/Quan_Nguyen - Quan Nguyen.jpg
 about: i am very chill and go thru life light-heartedly. i am eager to try new things like food and fun activities! kind of a homebody but i still luv going out. monkeys and dinos = me.
-year: qmn27@drexel.edu
+year: Sophmore
 major: Chemistry
 
 ---

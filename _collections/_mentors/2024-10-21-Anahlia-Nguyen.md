@@ -4,7 +4,7 @@ title: Anahlia Nguyen
 date: 2024-10-21
 image: assets/images/Anahlia_Nguyen - Anahlia Nguyen.jpg
 about: i’m a driven person and i love working towards my goals. i’m an enfp and i like to constantly be doing something. i love eating out and i like being w people i care abt<3 i love anything miffy. i like to give it my all and strive for improvement and success in anything that i’m involved in
-year: amn358@drexel.edu
+year: Sophmore
 major: User Experience and Interaction Design 
 
 ---

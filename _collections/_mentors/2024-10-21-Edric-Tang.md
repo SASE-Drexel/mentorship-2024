@@ -4,7 +4,7 @@ title: Edric Tang
 date: 2024-10-21
 image: assets/images/Edric_Tang - Edric Tang.jpg
 about: I was born and raised in suburban Philly and I am a commuter! I am a gamer and tend to be on the unserious but I am a good listener and give good advice out. If you need anyone to talk to, I'll be there!
-year: emt94@drexel.edu
+year: Pre-Junior
 major: Electrical and Computer Engineering
 
 ---

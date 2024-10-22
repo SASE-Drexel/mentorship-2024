@@ -4,7 +4,7 @@ title: Anton Manjon
 date: 2024-10-21
 image: assets/images/Anton_Manjon - Anton Manjon.jpg
 about: I keep myself busy by playing for the club tennis team or just being involved in a bunch of orgs on campus. I’m currently on FISDU board as webmaster but formerly on ASME board as well. 
-year: am5378@drexel.edu
+year: Sophmore
 major: Mechanical Engineering
 
 ---

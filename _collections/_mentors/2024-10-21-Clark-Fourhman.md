@@ -4,7 +4,7 @@ title: Clark Fourhman
 date: 2024-10-21
 image: assets/images/Clark_Fourhman - Clark Fourhman.jpg
 about: My name is Clark Fourhman, and I'm a second-year software engineering student. I can be considered a massive nerd; I love watching movies, anime, and reading. I love drawing and you can usually find me where there's food or a good cup of coffee. 
-year: Cjf338@drexel.edu
+year: Sophmore
 major: Software engineering 
 
 ---

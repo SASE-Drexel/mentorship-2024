@@ -4,7 +4,7 @@ title: Ashley Rapay
 date: 2024-10-21
 image: assets/images/Ashley_Rapay - Ashley Rapay.jpg
 about: I am Filipino-American who was born and raised in Yonkers, NY. I came to Philly to go to college at Drexel and I found myself getting to know a lot of people in the college and other Philly colleges. I am someone who enjoys being out a lot and learning a lot of new things. I feel like I’m very athletic and I’m pretty active on a day to day life where I would love going outside. I am very caring, I love talking to people, and I feel like I do a lot of activities. I’m basically down to do anything that seems fun like go sky diving :) or do some other crazy enjoyable things. 
-year: anr327@drexel.edu
+year: Junior
 major: Product Design
 
 ---

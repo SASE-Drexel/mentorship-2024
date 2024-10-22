@@ -4,7 +4,7 @@ title: Sanjana Gunda
 date: 2024-10-21
 image: assets/images/Sanjana_Gunda - Sanjana Gunda.jpg
 about: Hi I'm Sanjana! I may seem introverted (INFJ), intimidating-looking, and super quiet in public but I love meeting new people, open up pretty fast, and (most importantly) will smile a lot more when you meet and get to know me. I drink too much iced coffee but have good recs on cafes to go get it or ways to make it. 
-year: sg3774@drexel.edu
+year: Pre-Junior
 major: Computer Science
 
 ---

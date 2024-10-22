@@ -4,7 +4,7 @@ title: Benjamin Kuoch
 date: 2024-10-21
 image: assets/images/Benjamin_Kuoch - Benjamin Kuoch.jpg
 about: Hii! I'm Ben and I'm a 2nd year CS major. I have a ton of random hobbies like bowling and rock climbing and I really like to go out to eat! I'm a bit shy when I first meet people but always down to hang out and grab food or anything.
-year: bk696@drexel.edu
+year: Sophmore
 major: Computer Science
 
 ---

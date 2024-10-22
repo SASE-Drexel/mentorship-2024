@@ -4,7 +4,7 @@ title: Tiffany Mai
 date: 2024-10-21
 image: assets/images/Tiffany_Mai - Tiffany Mai.jpg
 about: I like to say I’m a down, chill to earth person. I love meeting new people and I’m a considered a grandma now :)
-year: tm3337@drexel.edu
+year: Junior
 major: Data Science and Information Systems
 
 ---

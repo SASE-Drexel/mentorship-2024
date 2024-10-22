@@ -4,7 +4,7 @@ title: Yi Huan Yang
 date: 2024-10-21
 image: assets/images/Yi_Huan-Yang - Yi Huan-Yang.jpg
 about: Aggressively intro+extraverted...I'm an ambivert! As a little fun fact, I'm from Philly and went to Central (281) so let me know if you want recs!! I love 1:1 hangouts that last all day. Let's yap!
-year: yy559@drexel.edu
+year: Pre-Junior
 major: User Experience Interaction Design
 
 ---

@@ -4,7 +4,7 @@ title: Clara Shao
 date: 2024-10-21
 image: assets/images/Clara_Shao - Clara Shao.jpg
 about: i love cats and eating ice cream and spicy food! i enjoy attending social events, meeting new people, and making a fruit smoothie everyday. i also like feeding my gray cat chicken and apples.
-year: clara.shao@drexel.edu
+year: Pre-Junior
 major: Computer Science
 
 ---

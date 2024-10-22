@@ -4,7 +4,7 @@ title: Sara Shigambayeva
 date: 2024-10-21
 image: assets/images/Sara_Shigambayeva - Sara Shigambayeva.jpg
 about: i love turkish lentil soup and rewatching Toradora or Ao haru ride
-year: ss5445@drexel.edu
+year: Senior
 major: Biological Sciences
 
 ---

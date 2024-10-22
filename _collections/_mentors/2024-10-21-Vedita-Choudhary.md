@@ -4,7 +4,7 @@ title: Vedita Choudhary
 date: 2024-10-21
 image: assets/images/Vedita_Choudhary - Vedita Choudhary.jpg
 about: Fun, Ambitious & Rationale 
-year: vc454@drexel.edu
+year: Pre-Junior
 major: Electrical engineering and cybersecurity 
 
 ---

@@ -4,7 +4,7 @@ title: Dabin Seomun
 date: 2024-10-21
 image: assets/images/Dabin_Seomun - Dabin Seomun.jpg
 about: I'm Drexel graduate starting grad school in Drexel again. I am old, and an international student from South Korea. I joke a lot, and love to discuss (yap) a lot as well. While I would consider myself an outgoing/extrovert, most of my hobbies are done indoors. I came to the States when I started High School, and I am somewhat confident in my English although I miss a lot of social cues and slangs. Lastly, I love to teach others, so feel free to reach out to me to ask about Drexel-related or even S. Korea-related questions.
-year: ds3699@drexel.edu
+year: Grad School
 major: Machine Learning ENGR
 
 ---

@@ -4,7 +4,7 @@ title: Anthony Chong
 date: 2024-10-21
 image: assets/images/Anthony_Chong - Anthony Chong.jpg
 about: hii im a 3rd year biology major with a minor in psychology! i may look like i hate everything from my constant rbf but i promise im a nice person...I think I'm pretty extroverted and outgoing!
-year: ac4422@drexel.edu
+year: Pre-Junior
 major: Biological Sciences
 
 ---

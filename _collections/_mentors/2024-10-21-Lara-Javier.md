@@ -4,7 +4,7 @@ title: Lara Javier
 date: 2024-10-21
 image: assets/images/Lara_Javier - Lara Javier.jpg
 about: shy extroverted. quirky. organized. lazy. i like the gym. i like dogs. i like miffy and pochacco. i love twice. jungkook. katseye. i love food. lets eat food tg.
-year: lbj32@drexel.edu
+year: Senior
 major: Nursing
 
 ---

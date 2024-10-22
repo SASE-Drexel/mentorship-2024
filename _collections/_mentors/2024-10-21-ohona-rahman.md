@@ -4,7 +4,7 @@ title: ohona rahman
 date: 2024-10-21
 image: assets/images/ohona_rahman - ohona rahman.jpg
 about: hii im ohona, im a second year at drexel studying uxid, i grew up in northeast philly. im an enfp if that helps at all. i have two very cute cats called kofi and chai. 
-year: or79@drexel.edu
+year: Sophmore
 major: UXID
 
 ---

@@ -4,7 +4,7 @@ title: Celine Pham
 date: 2024-10-21
 image: assets/images/Celine_Pham - Celine Pham.jpg
 about: I am a passionate student actively involved in my sorority, Sigma Psi Zeta, where I hold leadership roles and advocate for combating violence against women. I also enjoy organizing events like the Asian Night Market and participating in hackathons, which showcase my skills in web development and creative problem-solving. I have a strong relationship with my community and family. My studies include modern Japanese horror cinema, data structures, and web development, allowing me to balance academics, leadership, and community service.
-year: cdp72@drexel.edu
+year: Pre-Junior
 major: Computer Science
 
 ---

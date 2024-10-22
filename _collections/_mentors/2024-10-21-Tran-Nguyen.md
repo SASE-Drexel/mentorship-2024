@@ -4,7 +4,7 @@ title: Tran Nguyen
 date: 2024-10-21
 image: assets/images/Tran_Nguyen - Tran Nguyen.jpg
 about: Hey there! I’m Tran Nguyen, a senior majoring in Global Studies and a Philly native—so if you ever need a local tour guide, I’m your person! I love to chat (trust me, I can talk for days), but I’m also all ears, so conversations are always a good time. I’ve studied abroad in both Asia and Europe, so if you’re thinking about heading overseas, I’d love to help with your application. 
-year: thn56@drexel.edu
+year: Senior
 major: Global Studies
 
 ---

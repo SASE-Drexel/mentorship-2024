@@ -4,7 +4,7 @@ title: Julianna Chin
 date: 2024-10-21
 image: assets/images/Julianna_Chin - Julianna Chin.jpg
 about: Hiiii! I'm a New Yorker and a UXID major at Drexel with a strong STEM and visual arts background. I am an INFP and a great listener. If I'm not in my room, I'm eating tacos, attending live music events or thrifting. You also may see me in the gym or at Drexel Badminton Club practice.
-year: jc4738@drexel.edu
+year: Sophmore
 major: User Experience and Interaction Design
 
 ---

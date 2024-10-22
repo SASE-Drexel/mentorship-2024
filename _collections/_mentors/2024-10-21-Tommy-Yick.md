@@ -4,7 +4,7 @@ title: Tommy Yick
 date: 2024-10-21
 image: assets/images/Tommy_Yick - Tommy Yick.jpg
 about: I am a 2nd year graduate student and it's my last year at Drexel. I got my BS in Mechanical Engineering and will complete my MS in Computer Science in 2025 spring. 
-year: tty23@drexel.edu
+year: Grad
 major: BS Mech Engineering, MS Comp Sci 
 
 ---

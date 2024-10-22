@@ -4,7 +4,7 @@ title: Chloe Peng
 date: 2024-10-21
 image: assets/images/Chloe_Peng - Chloe Peng.jpg
 about: Hii there! As a Brooklyn native, I might come off as nonchalant, but I’m quite literally the opposite (pigeons freak me out). Still, I love exploring the city, doing work at cafes, and having late night talks by the pier. I'd say I'm relatively quiet in group settings, but I enjoy meeting new people and getting to engage through conversations and stories. I'm a creative thinker with a strong sense of empathy, but I’m also someone who follows through on my decisions.
-year: cp3282@drexel.edu
+year: Sophmore
 major: User Experience & Interaction Design
 
 ---

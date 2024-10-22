@@ -4,7 +4,7 @@ title: Ilysia Krzywonos
 date: 2024-10-21
 image: assets/images/Ilysia_Krzywonos - Ilysia Krzywonos.jpg
 about: Hii, I'm Ilysia :) I'm a CS major from Bucks County Pa.  I love deep diving into random topics, playing music, and doing spontaneous things with friends in my free time. I am introverted but I would say I'm pretty open-minded and approachable. 
-year: ik395@drexel.edu
+year: Sophmore
 major: Computer Science
 
 ---

@@ -4,7 +4,7 @@ title: Ricky Chen
 date: 2024-10-21
 image: assets/images/Ricky_Chen - Ricky Chen.jpg
 about: Harro!! I'm a 3rd year majoring in Electrical Engineering and Computer Engineering. I love cooking food, especially meats and Asian Cuisine. I love playing basketball, working out, and hanging out with friends. I love to try new things since I only get to live once. I also love anime; my tops are AOT, Naruto, Black Clover, One Piece. Give recs if you got any :).
-year: rc3297@drexel.edu
+year: Pre-Junior
 major: Electrical and Computer Engineering
 
 ---

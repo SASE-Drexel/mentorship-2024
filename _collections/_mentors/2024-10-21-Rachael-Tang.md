@@ -4,7 +4,7 @@ title: Rachael Tang
 date: 2024-10-21
 image: assets/images/Rachael_Tang - Rachael Tang.jpg
 about: INFP that sleeps way too much.
-year: rmt67@drexel.edu
+year: Junior
 major: Computer Science
 
 ---

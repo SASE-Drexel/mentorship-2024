@@ -4,7 +4,7 @@ title: Athela Villaruel
 date: 2024-10-21
 image: assets/images/Athela_Villaruel - Athela Villaruel.jpg
 about: Hii, I'm Athela! I'm a short girl who laughs easily and has a friendly personality. I like sweet treats, reading books, and going to concerts. Let's be friends!
-year: acv63@drexel.edu
+year: Pre-Junior
 major: Information Systems
 
 ---

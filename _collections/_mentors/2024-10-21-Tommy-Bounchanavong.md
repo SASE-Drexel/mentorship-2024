@@ -4,7 +4,7 @@ title: Tommy Bounchanavong
 date: 2024-10-21
 image: assets/images/Tommy_Bounchanavong - Tommy Bounchanavong.jpg
 about: I am an easy going person! I have lots of wisdom to share with the youngings. I like to joke around a lot and don't try to be too serious, even though my face might show otherwise. Overall, I just like to have fun!
-year: ttb43@drexel.edu
+year: Senior
 major: Computer Science
 
 ---

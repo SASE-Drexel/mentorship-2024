@@ -4,7 +4,7 @@ title: Matthew Fu
 date: 2024-10-21
 image: assets/images/Matthew_Fu - Matthew Fu.jpg
 about: :3
-year: mxf25@drexel.edu
+year: Sophmore
 major: organizational management 
 
 ---

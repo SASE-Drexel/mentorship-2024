@@ -4,7 +4,7 @@ title: Michelle Le
 date: 2024-10-21
 image: assets/images/Michelle_Le - Michelle Le.jpg
 about: I'd like to think I'm pretty chill. Fairly introverted initially but I open up pretty easily! Somehow always sleep deprived and craving naps. I'm a slight homebody but always down to hang out and grab food or anything :)
-year: ml3725@drexel.edu
+year: Junior
 major: User Experience & Interaction Design
 
 ---

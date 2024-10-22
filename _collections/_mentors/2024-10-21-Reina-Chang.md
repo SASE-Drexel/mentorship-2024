@@ -4,7 +4,7 @@ title: Reina Chang
 date: 2024-10-21
 image: assets/images/Reina_Chang - Reina Chang.jpg
 about: i'm quiet at first but i will warm up to you once i get to know you. i'm taking life like it's just another side quest. :)
-year: rc3255@drexel.edu
+year: Junior
 major: Civil Engineering 
 
 ---

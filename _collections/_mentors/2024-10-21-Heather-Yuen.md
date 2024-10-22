@@ -4,7 +4,7 @@ title: Heather Yuen
 date: 2024-10-21
 image: assets/images/Heather_Yuen - Heather Yuen.jpg
 about: ISTJ if that means anything to you? But even though I'm introverted, I'm super friendly (pls ignore my RBF)! I'm also a night owl that loves playing tennis and listening to music. I also love trying new food and going cafe hopping so join me :)
-year: hsy23@drexel.edu
+year: Junior
 major: Computer Science
 
 ---
