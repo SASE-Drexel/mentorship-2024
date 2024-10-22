@@ -3,7 +3,7 @@ layout: post
 title: Kevin Dinh 
 date: 2024-10-21
 image: assets/images/Kevin_Dinh - Kevin Dinh.jpg
-about: Iâ€™m interested in software engineering and artifical intelligence
+about: I'm interested in software engineering and artifical intelligence
 year: Freshman
 major: None
 

@@ -3,7 +3,7 @@ layout: post
 title: Kevin Dinh 
 date: 2024-10-21
 image: assets/images/Kevin_Dinh - Kevin Dinh.jpg
-about: Iâ€™m a first year computer science student from Long Island, NY. I like going to the gym, trying new foods, and going out with friends. 
+about: I'm a first year computer science student from Long Island, NY. I like going to the gym, trying new foods, and going out with friends. 
 year: Freshman
 major: Computer Science
 
