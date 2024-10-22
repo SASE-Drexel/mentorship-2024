@@ -5,7 +5,8 @@ date: 2024-10-21
 image: assets/images/Tanisha_Shibu-Thomas - Tanisha Shibu-Thomas.jpg
 about: I’m a thoughtful and reflective person who’s always looking to grow and make meaningful connections. I try to stay true to myself, but I’m also open to new experiences and learning from others. I tend to be pretty introspective, which helps me understand my emotions and thoughts on a deeper level. At the same time, I care about making a positive difference, whether it’s in my relationships or the world around me. 
 year: Freshman
-major: First Year Exploratory Studies (Top choice: Engineering Technology)
+major: |
+    First Year Exploratory Studies (Top choice: Engineering Technology)
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Reina Chang 
 date: 2024-10-21
-image: assets/images/Reina_Chang - Reina Chang.jpg
+image: assets/images/reina_chang - reina chang.jpg
 about: i'm quiet at first but i will warm up to you once i get to know you. i'm taking life like it's just another side quest. :)
 year: Junior
 major: Civil Engineering 

@@ -3,7 +3,8 @@ layout: post
 title: Patricia Tran 
 date: 2024-10-21
 image: assets/images/Patricia_Tran - Patricia Tran.jpg
-about: Hello! Three words to describe me: awesome, friendly, nice. I'm a leo and enfj.
+about: |
+    Hello! Three words to describe me: awesome, friendly, nice. I'm a leo and enfj.
 year: Sophmore
 major: Computer Science
 

@@ -3,9 +3,11 @@ layout: post
 title: Vincent Nguyen 
 date: 2024-10-21
 image: assets/images/Vincent_Nguyen - Vincent Nguyen.jpg
-about: hello hello~
-
-my name is vincent nguyen! I’m a 3rd year chemistry major with minors in biochem and criminal justice!
+about: hello hello~
+
+
+
+    my name is vincent nguyen! I’m a 3rd year chemistry major with minors in biochem and criminal justice!
 year: Pre-Junior
 major: Chemistry
 
@@ -13,8 +15,10 @@ major: Chemistry
 
 ### About
 
-hello hello~
-
+hello hello~
+
+
+
 my name is vincent nguyen! I’m a 3rd year chemistry major with minors in biochem and criminal justice!
 
 ### Why Do I Want To Be a SASE Mentor?
