@@ -2,7 +2,7 @@
 layout: post
 title: Nicholas lukito 
 date: 2024-10-21
-image: assets/images/Nicholas_lukito - Nicholas lukito.jpg
+image: assets/images/Nicholas_Lukito - Nicholas Lukito.jpg
 about: I like to describe myself as someone who loves meeting and connecting with new people, I try to build a relationship with people I meet, and I'm very open in learning new things.
 year: Freshman
 major: mechanical engineering 
