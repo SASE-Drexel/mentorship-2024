@@ -15,7 +15,7 @@ Hii! I'm Ben and I'm a 2nd year CS major. I have a ton of random hobbies like bo
 
 ### Why Do I Want To Be a SASE Mentor?
 
-I think it'd be cool to have a mentee. I had a lot of fun being a mentee last year and I think it'd be really cool to be able to support someone whether it be professional or just life in general.
+I think it'd be fun to have a mentee. I had a lot of fun being a mentee last year and I think it'd be really cool to be able to support someone whether it be professional or just life in general.
 
 ### Career Goals
 
@@ -27,7 +27,7 @@ None :3
 
 ### Interests
 
-tennis, bowling, rock climbing, video games, gym, anime, munching, plus others!!
+I'm a little bit of a nerd☝️🤓 but I also like tennis, bowling, rock climbing, video games, gym, anime, munching, plus other things!!
 
 ### What to Expect From Me
 
