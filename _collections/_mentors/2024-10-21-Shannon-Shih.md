@@ -1,6 +1,6 @@
 ---
 layout: post
-title: shannon shih 
+title: Shannon Shih 
 date: 2024-10-21
 image: assets/images/Shannon_Shih - Shannon Shih.jpg
 about: hihi i’m shannon a third year in biomed engineering. i’m a pretty outgoing person (my mbti is esfj) and i love going thrifting or on dessert dates. in my free time you’d probably catch me watching shows or hanging out with friends. i’m chill i swear please talk to me 🙏
