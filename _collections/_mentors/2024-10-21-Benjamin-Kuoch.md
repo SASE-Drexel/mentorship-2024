@@ -23,11 +23,11 @@ I want a high paying coop so I can big back :)
 
 ### Co-ops
 
-None
+None :3
 
 ### Interests
 
-tennis, bowling, rock climbing, video games, gym, anime, munching
+tennis, bowling, rock climbing, video games, gym, anime, munching, plus others!!
 
 ### What to Expect From Me
 
