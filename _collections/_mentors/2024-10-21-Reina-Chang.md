@@ -38,5 +38,5 @@ relaxed and flexible. i just want to create a comfortable environment where my m
 chill & friendly
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2024/assets/images/Reina_Chang - Reina Chang.jpg" alt="Reina Chang" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2024/assets/images/reina_chang - reina chang.jpg" alt="Reina Chang" class="rounded post-img" />
 </div>

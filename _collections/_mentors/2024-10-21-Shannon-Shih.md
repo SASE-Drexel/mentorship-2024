@@ -38,5 +38,5 @@ very chill i’d want to be more like friends! of course i can also help profess
 friends….
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2024/assets/images/shannon_shih - shannon shih.jpg" alt="shannon shih" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2024/assets/images/Shannon_Shih - Shannon Shih.jpg" alt="shannon shih" class="rounded post-img" />
 </div>

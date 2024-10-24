@@ -38,5 +38,5 @@ Whatever they ask me or want to do, I'm down for. I LOVE giving advice to people
 I'd be an immediate support system and good friend to them :) I'd be there for them whenever they need me 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2024/assets/images/Sanjana_Gunda - Sanjana Gunda.jpg" alt="Sanjana Gunda" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2024/assets/images/Sanjana_Gunda - Sanjana Gunda.JPG" alt="Sanjana Gunda" class="rounded post-img" />
 </div>
